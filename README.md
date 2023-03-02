@@ -17,6 +17,8 @@ A curated list of Hashgraph application code and other resources, inspired by ot
 
 * [Hedera](https://hedera.com) - the only public network authorized to implement the hashgraph algorithm.
 * [Swirlds](http://www.swirlds.com/) - inventors of the hashgraph consensus algorithm, offering licenses to use it in permissioned environments.
+* [Hbar Foundation](https://www.hbarfoundation.org/) - 
+* [Hashgraph Association](https://hashgraph-association.com/) - 
 
 ## [Reference Key](#key)
 
