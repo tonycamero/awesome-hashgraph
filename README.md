@@ -76,7 +76,41 @@ A curated list of Hashgraph application code and other resources, inspired by ot
 - **CredentialGuard** - ZK credentials in hiring/education.
 - **SUKU** - [suku.world](https://suku.world/) Mobile-first self-sovereign identity.
 
-**Further sections updated similarly**
+### Gaming & Metaverse
+
+- **Tune.FM** - Tokenized music streaming with artist rewards.
+- **MetaVRse** - 3D builder and immersive commerce.
+- **DeadPixels Ghost Club** - PFP-based gaming + lore.
+- **HashGuild** - Premier Hedera NFT marketplace.
+- **Zuse Market** - NFT/gaming asset trading with analytics.
+- **Earthlings Land** - Gameplay-first metaverse with NFT land and tokenized economy.
+
+### Green Tech & ESG
+
+- **DOVU** - Tokenized carbon credit marketplace.
+- **TYMLEZ** - Renewable energy & sustainability ledger.
+- **RecDeFi** - Renewable energy credits on-chain.
+- **Envision Blockchain** - Partner on ESG impact tracking.
+
+### Infrastructure & Wallets
+
+- **HashPack** - [hashpack.app](https://www.hashpack.app/) Leading Hedera wallet with NFT and dApp support.
+- **Blade Wallet** - Business and consumer wallet suite.
+- **Wallawallet** - Clean UI with native token support.
+- **Kabuto** - Block explorer and event/webhook API.
+- **HashIO** - Analytics and smart contract monitoring.
+- **KiloScribe** - Decentralized document inscription platform.
+- **Actalink** - Programmable on-chain APIs and token triggers.
+- **Hashgraph Online** - Decentralized vision for future internet on Hedera.
+- **Hiero** - Open-source Hedera node implementation by the community, incubated under the Linux Foundation.
+
+### Social Impact & Public Goods
+
+- **Hedera For Good** - Nonprofit and cause-based use cases.
+- **Trust Enterprises / DTI** - UN-aligned verifiable credentialing.
+- **Calaxy** - Creator economy app for fan experiences.
+- **The Culture** *(In development)* - Community-powered Hedera app for culture, cannabis, and hip-hop rewards.
+- **RuTown / The Culture Wallet** *(In development)* - Skinned Scend Super App for local community rewards and messaging.
 
 ## Hashgraph Open Source
 
